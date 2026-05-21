@@ -15,7 +15,7 @@ Built from hands-on experience managing multi-site IT infrastructure across serv
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/system-health-monitor.git
+git clone https://github.com/adityadhar-dev/system-health-monitor.git
 cd system-health-monitor
 
 # Run live monitor (default: checks every 5 seconds)
